@@ -1,0 +1,12 @@
+.sprite { background: url('sprite.png') no-repeat top left; width: 250px; height: 250px;  } 
+.sprite.Drawing { background-position: 0 0; } 
+.sprite.Drawing1 { background-position: -260px 0; } 
+.sprite.Drawing2 { background-position: -520px 0; } 
+.sprite.Drawing3 { background-position: -780px 0; } 
+.sprite.Drawing4 { background-position: -1040px 0; } 
+.sprite.Drawing5 { background-position: -1300px 0; } 
+.sprite.Drawing6 { background-position: -1560px 0; } 
+.sprite.Drawing9 { background-position: -1820px 0; } 
+.sprite.Drawing7 { background-position: -2080px 0; } 
+.sprite.Drawing9 { background-position: -2340px 0; } 
+.sprite.Drawing6 { background-position: -2600px 0; } 

@@ -1,0 +1,25 @@
+#can{		
+	display: block;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.preBackground{
+/*	background-color: #4C9C7*/
+	/*background: linear-gradient(180deg, rgb(61, 219, 54) 59%, rgb(52, 255, 255) 89%);	background-color: #99FF33; */
+	background-image: url("../imgs/notes.png");
+	background-size: cover;
+}
+
+.gameBackground{
+	background-color: #99EBED;
+}
+
+.demonBackground{
+	background-color: black;
+}
